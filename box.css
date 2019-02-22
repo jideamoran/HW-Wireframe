@@ -1,0 +1,17 @@
+.box-set {text-align: center
+}
+
+#box-1 { position: fixed
+top: 100%
+bottom: 0%}
+
+#box-2 { position: fixed
+top: 75%
+
+}
+
+.box-3 { position: relative}
+
+.box-4 { position: relative}
+
+footer { position: fixed}
